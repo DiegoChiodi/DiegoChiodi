@@ -4,9 +4,7 @@
 Eu sou estudante do Instituto do Federal do Paraná (IFPR) - Campus Paranavaí
 ## 🚀 Sobre mim
 
-- Experiência  em conhecimento em Exel, Word, Power Point, Calc, Libre Office Writer e Libre Office Calc.
-
-- Conhecimento na linguagem GML, Java e C++.
+- Domínio nas ferramentas: Exel, Word, Power Point, Calc, Libre Office Writer e Libre Office Calc.
 
 - Tenho 1 jogo https://diegonmn.itch.io/movement-is-force, feito no Game maker.
 
