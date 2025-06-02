@@ -10,7 +10,7 @@ Eu sou estudante do Instituto do Federal do Paraná (IFPR) - Campus Paranavaí
 
 - Tenho 1 jogo https://diegonmn.itch.io/movement-is-force, feito no Game maker.
 
-
+- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DiegoChiodi&layout=compact&theme=dark)
 
 ## 🛠 Habilidades
 
@@ -23,7 +23,5 @@ Eu sou estudante do Instituto do Federal do Paraná (IFPR) - Campus Paranavaí
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DiegoChiodi&layout=compact&theme=dark)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoChiodi&theme=dark&show_icons=true)
