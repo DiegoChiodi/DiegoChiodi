@@ -1,9 +1,10 @@
 Resumo sobre mim
 Desenvolve-dor de jogos e informação | Estudante do Técnico em informática no IFPR | C++ | Java | GML | HTML | aprendendo GDscript| Pacote Office | Power Point | Exel | World | Interesse na área da programação de jogos
 
-![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
+- Página de jogos: diegonmn.itch.io
+- Linkedin: linkedin.com/in/diegochiodi
 
-![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
+![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
@@ -13,5 +14,4 @@ Desenvolve-dor de jogos e informação | Estudante do Técnico em informática n
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoChiodi&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-- Página de jogos: diegonmn.itch.io
-- Linkedin: linkedin.com/in/diegochiodi
+
