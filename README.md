@@ -1,16 +1,7 @@
-
-# Oi, eu sou o Diego Chiodi!
-
-Eu sou estudante do Instituto do Federal do Paraná (IFPR) - Campus Paranavaí
-## 🚀 Sobre mim
-
-- Domínio nas ferramentas: Exel, Word, Power Point, Calc, Libre Office Writer e Libre Office Calc.
+Estudante do Instituto do Federal do Paraná (IFPR) - Campus Paranavaí
+## Compêtencias
 
 - Aprendendo C++, Java, GML, HTML e GDScript. 
-
-- Página de jogos em https://diegonmn.itch.io/
-
-## 🛠 Habilidades
 
 ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
 
@@ -23,3 +14,6 @@ Eu sou estudante do Instituto do Federal do Paraná (IFPR) - Campus Paranavaí
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoChiodi&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+- Página de jogos: diegonmn.itch.io
+- Linkedin: linkedin.com/in/diegochiodi
