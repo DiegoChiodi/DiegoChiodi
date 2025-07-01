@@ -1,4 +1,4 @@
-- Resumo sobre mim
+Resumo sobre mim
 Desenvolve-dor de jogos e informação | Estudante do Técnico em informática no IFPR | C++ | Java | GML | HTML | aprendendo GDscript| Pacote Office | Power Point | Exel | World | Interesse na área da programação de jogos
 
 ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
